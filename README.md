@@ -1,4 +1,4 @@
-InfoNews Application 
+# Project Name: InfoNews Website
 
 Tech Stack =  ReactJs, HTML, CSS, JavaScript 
 
