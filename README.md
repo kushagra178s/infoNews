@@ -1,7 +1,6 @@
 # Project Name: InfoNews Website 
 
 [ https://infonews-project.netlify.app/ ]
-
 Tech Stack =  ReactJs, HTML, CSS, JavaScript 
 
 • Crafted a real-time News platform covering Technology and Sports.
