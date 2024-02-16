@@ -1,4 +1,6 @@
-# Project Name: InfoNews Website
+# Project Name: InfoNews Website 
+
+[ https://infonews-project.netlify.app/ ]
 
 Tech Stack =  ReactJs, HTML, CSS, JavaScript 
 
